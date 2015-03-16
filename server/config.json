@@ -1,0 +1,19 @@
+{
+  "debug":true,
+  "ports":{
+    "faye":8009,
+    "screen":8989,
+    "approval":8988
+  },
+  "tweetDelay":7000,
+
+  "twitter":{
+    "consumerKey":"Nn3lwXnLXIP2SY1yiRp5bUjWf",
+    "consumerSecret":"FVgq6UDXKLUoFtWgN4m3dHLDW0qqbw2QmNRyoq1IYkCij6k6SG",
+    "accessTokenKey":"3086583629-rFGZAeha9xSFCVnU35skwxrQBIzc74WoHDOI6jV",
+    "accessTokenSecret":"EVPw97P6DqXlCSRF93ze8PlbSM3RqGRoqhCD1Q5LiMlUK",
+    "tempFile":"./tweets.json"
+  },
+
+  "track":"#milfordrelay2015"
+}

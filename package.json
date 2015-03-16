@@ -1,0 +1,19 @@
+{
+  "name": "twitterfeed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "faye": "^1.1.1",
+    "twitter": "^1.2.3",
+    "hapi": "^8.3.1",
+    "node-json-db": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

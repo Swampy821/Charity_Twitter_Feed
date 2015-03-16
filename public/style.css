@@ -1,0 +1,70 @@
+body{
+    background-color:white;
+    background-image:url('http://www.bigspringherald.com/sites/default/files/imagecache/article_taxonomy/relay%20for%20life%20logo_4.jpg');
+    background-repeat: no-repeat;
+    background-size:400px;
+    background-position: center;
+    background-position-y: 100px;
+
+}
+.the-title {
+    display:block;
+    font-size: 38px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: #260067;
+    text-shadow: 2px 2px 2px rgba(150, 150, 150, 1);
+    float:left;
+}
+
+.the-hash {
+    display:block;
+    font-size: 38px;
+    font-weight: bold;
+    float:right;
+    color: #260067;
+    text-shadow: 2px 2px 2px rgba(150, 150, 150, 1);
+}
+
+.tweet{
+    background-color:white;
+    display:none;
+    height:200px;
+    width:450px;
+    border-radius:5px;
+    position:absolute;
+    box-shadow: 3px 3px 25px 0px #000;
+}
+
+.tweet > .user > img {
+    border-radius:50px;
+    margin-left:15px;
+    margin-top:10px;
+    float:left;
+    display:block;
+}
+.tweet > .user > .name {
+    font-size:25px;
+    font-weight:bold;
+    margin-left:20px;
+    margin-top:20px;
+    float:left;
+}
+.tweet > .user > .twitter-icon > img {
+    height:50px;
+    float:right;
+    margin-right:20px;
+    margin-top:5px;
+}
+
+.tweet > .the-tweet {
+    display:block;
+    float:left;
+    margin-top:5px;
+    margin-left:15px;
+    margin-right:15px;
+    font-size:23px;
+
+    height:80px;
+}
