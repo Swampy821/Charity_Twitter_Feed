@@ -7,4 +7,4 @@ It is a work in progress but will be in working condition by May 2nd, 2015.
 
 If anyone would like to donate to our current Relay for Life event, any donation would be greatly appreciated
 
-(http://main.acsevents.org/site/TR/RelayForLife/RFLCY15LS?px=35740293&pg=personal&fr_id=68067)[Click here to go to Donation Page]
+[Click here to go to Donation Page](http://main.acsevents.org/site/TR/RelayForLife/RFLCY15LS?px=35740293&pg=personal&fr_id=68067)
